@@ -3,18 +3,25 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Installation](#Installation)
 
 ## Instructions
+* How to play the matching memory Game?
+To play the memory game or matching game you have pairs of icons you should make each pair matches each other, you can do that by clicking the first card then click the second card if they are the same icon they will still be opening in front of you on your screen
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+Notice that their color will change from blue to **green** that means that they are _matching_ the same icon
 
-To get started, open `js/app.js` and start building out the app's functionality
+* But what happens if they are not matching with the same Icon?
+```
+if they are not matching they will flip back again and they will not turn to green that means that they doesn't match
+```
+Keep trying to get the two matching cards with the same Icon
+after matching the first pairs and by the way to achieve the last pair the color for every matching pair will turn to green
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+* You should make it fast to get the **best rating** you will see it in **stars**
 
-## Contributing
+* you will see your **time** in playing, **rating** and your count of **moves**
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+enjoy :D
+## Installation
+You don't need to install any thing Just open it in a web browser like **Google chrome** or **Mozilla fire fox**
